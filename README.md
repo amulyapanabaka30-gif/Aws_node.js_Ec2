@@ -70,10 +70,26 @@ npm run start
 ```
 
 > NOTE - We will have to edit the **inbound rules** in the security group of our EC2, in order to allow traffic from our particular port
+### WORKFLOW
+>>> On Local
 
 ![image alt](https://github.com/amulyapanabaka30-gif/Aws_node.js_Ec2/blob/main/On_local.png?raw=true)
 
+>>  Works on the Local 🎉
+
 ![image alt](https://github.com/amulyapanabaka30-gif/Aws_node.js_Ec2/blob/main/Output.png?raw=true)
+
+>> On AWS after using ssh and port Public_key created instance with port 3000
+
+![image alt](https://github.com/amulyapanabaka30-gif/Aws_node.js_Ec2/blob/main/awsinstance.png?raw=true)
+
+![image alt](https://github.com/amulyapanabaka30-gif/Aws_node.js_Ec2/blob/main/command1.png?raw=true)
+
+![image alt](https://github.com/amulyapanabaka30-gif/Aws_node.js_Ec2/blob/main/command2.png?raw=true)
+
+>> Works on the internet 🎉
+
+![image alt](https://github.com/amulyapanabaka30-gif/Aws_node.js_Ec2/blob/main/Output.aws.png?raw=true)
 
 ### Project is deployed on Local and AWS 🎉
 
