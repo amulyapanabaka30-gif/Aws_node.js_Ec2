@@ -1,4 +1,6 @@
-# Deploying a Node Js Application on AWS EC2
+## Author: https://github.com/verma-kunal 
+
+ Deploying a Node Js Application on AWS EC2
 
 ### Testing the project locally
 
